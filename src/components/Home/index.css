@@ -1,0 +1,13 @@
+.home-container {
+  background-color: #152850;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  margin: 30px;
+}
+.heading {
+  color: white;
+  margin: 30px;
+}
